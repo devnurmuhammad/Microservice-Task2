@@ -23,4 +23,8 @@
     <Folder Include="Repositories\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Apartment.Infrastructure\Apartment.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

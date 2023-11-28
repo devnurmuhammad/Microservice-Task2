@@ -18,4 +18,8 @@
     <ProjectReference Include="..\Apartment.Domain\Apartment.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Repositories\Houses\" />
+  </ItemGroup>
+
 </Project>
